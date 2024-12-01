@@ -1,14 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 20px;
-  }
-  h1 {
+    background-color: white;
     color: #333;
   }
-  nav a {
-    margin: 0 10px;
-    color: blue;
-    text-decoration: none;
+  
+  h1 {
+    color: lilac;
   }
   
